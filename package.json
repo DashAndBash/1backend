@@ -1,0 +1,23 @@
+{
+  "name": "not_backend",
+  "version": "1.0.0",
+  "description": "!백엔드 팀프",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DashAndBash/not_backend.git"
+  },
+  "author": "!백엔드",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DashAndBash/not_backend/issues"
+  },
+  "homepage": "https://github.com/DashAndBash/not_backend#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "ws": "^8.18.0"
+  }
+}
